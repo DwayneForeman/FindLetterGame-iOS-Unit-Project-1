@@ -111,7 +111,6 @@ class DMFindingGameViewController: UIViewController {
             //Also, add/run the updateScore function below so the score can be updated accordingly
             updateScoreLabel()
         }
-        
     }
     
     /**
